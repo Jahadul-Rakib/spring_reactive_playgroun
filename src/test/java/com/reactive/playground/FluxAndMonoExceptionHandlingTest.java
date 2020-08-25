@@ -1,5 +1,6 @@
-package com.reactive;
+package com.reactive.playground;
 
+import com.reactive.utils.CustomException;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import reactor.core.publisher.Flux;

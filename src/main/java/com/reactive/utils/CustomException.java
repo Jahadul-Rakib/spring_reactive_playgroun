@@ -1,4 +1,4 @@
-package com.reactive;
+package com.reactive.utils;
 
 public class CustomException extends Throwable {
     private String message;
